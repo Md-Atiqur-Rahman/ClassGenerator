@@ -1,0 +1,15 @@
+﻿using MongoDB.Driver;
+using Test2Migrate.Migrations.Services;
+using Test2Migrate.Models;
+
+namespace {{ProjectName}}
+{
+    public class {{EntityName}}_{{CreationDate}} : IMigration
+    {
+        public Type Type => typeof(IMigration);
+        public async Task UpAsync(IMongoDatabase db)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}

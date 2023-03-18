@@ -1,0 +1,15 @@
+D:\RND\MongoMigration\ClassGenerator\ClassGenerator\bin\Debug\net6.0\ClassGenerator.exe
+D:\RND\MongoMigration\ClassGenerator\ClassGenerator\bin\Debug\net6.0\ClassGenerator.deps.json
+D:\RND\MongoMigration\ClassGenerator\ClassGenerator\bin\Debug\net6.0\ClassGenerator.runtimeconfig.json
+D:\RND\MongoMigration\ClassGenerator\ClassGenerator\bin\Debug\net6.0\ClassGenerator.dll
+D:\RND\MongoMigration\ClassGenerator\ClassGenerator\bin\Debug\net6.0\ClassGenerator.pdb
+D:\RND\MongoMigration\ClassGenerator\ClassGenerator\obj\Debug\net6.0\ClassGenerator.csproj.AssemblyReference.cache
+D:\RND\MongoMigration\ClassGenerator\ClassGenerator\obj\Debug\net6.0\ClassGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\RND\MongoMigration\ClassGenerator\ClassGenerator\obj\Debug\net6.0\ClassGenerator.AssemblyInfoInputs.cache
+D:\RND\MongoMigration\ClassGenerator\ClassGenerator\obj\Debug\net6.0\ClassGenerator.AssemblyInfo.cs
+D:\RND\MongoMigration\ClassGenerator\ClassGenerator\obj\Debug\net6.0\ClassGenerator.csproj.CoreCompileInputs.cache
+D:\RND\MongoMigration\ClassGenerator\ClassGenerator\obj\Debug\net6.0\ClassGenerator.dll
+D:\RND\MongoMigration\ClassGenerator\ClassGenerator\obj\Debug\net6.0\refint\ClassGenerator.dll
+D:\RND\MongoMigration\ClassGenerator\ClassGenerator\obj\Debug\net6.0\ClassGenerator.pdb
+D:\RND\MongoMigration\ClassGenerator\ClassGenerator\obj\Debug\net6.0\ClassGenerator.genruntimeconfig.cache
+D:\RND\MongoMigration\ClassGenerator\ClassGenerator\obj\Debug\net6.0\ref\ClassGenerator.dll
